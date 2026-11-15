@@ -1,3 +1,5 @@
 # ConTra
 
-Code coming soon. Expected release: by November 30, 2026.
+Code and datasets are coming soon.
+
+Expected release: late November to early December 2026.
